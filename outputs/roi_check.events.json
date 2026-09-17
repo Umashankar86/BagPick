@@ -1,0 +1,28 @@
+{
+  "input_video": "C:\\Users\\Umashankar\\BagPick\\inputs\\sample_video.mp4",
+  "output_video": "C:\\Users\\Umashankar\\BagPick\\outputs\\roi_check.mp4",
+  "synthetic_demo": false,
+  "perception_only": false,
+  "frames_processed": 60,
+  "initialized": true,
+  "final_state": "PICKING",
+  "contact_status": "disabled",
+  "state_sequence": [
+    "PLACED",
+    "PICKING"
+  ],
+  "transitions": [
+    {
+      "frame": 32,
+      "timestamp": 1.2916666666666667,
+      "previous": "PLACED",
+      "state": "PICKING",
+      "reason": "Wrist persistently inside ROI and near placed backpack",
+      "actor_id": 1,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": true
+    }
+  ]
+}

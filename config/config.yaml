@@ -1,0 +1,105 @@
+# All coordinates and pixel thresholds refer to the ORIGINAL video frame.
+# Paths are relative to this project's root, not the terminal working directory.
+input_video_path: inputs/sample_video.mp4
+output_video_path: outputs/processed_video.mp4
+missing_video_behavior: demo
+debug: false
+
+models:
+  detection_model: weights/yolo11n.pt
+  pose_model: weights/yolo11n-pose.pt
+  detection_confidence: 0.25
+  pose_confidence: 0.30
+  keypoint_confidence: 0.35
+  pose_person_min_iou: 0.20
+  image_size: 640
+  device: cpu
+
+tracking:
+  track_high_thresh: 0.25
+  track_low_thresh: 0.10
+  new_track_thresh: 0.25
+  track_buffer: 30
+  match_thresh: 0.80
+  id_change_min_iou: 0.30
+
+recognition:
+  enabled: true
+  model_path: weights/reid/person-reidentification-retail-0288.xml
+  sample_interval_frames: 5
+  confirmation_samples: 2
+  match_similarity: 0.70
+  continuity_similarity: 0.65
+  new_identity_max_similarity: 0.55
+  match_margin: 0.08
+  gallery_samples: 12
+  revalidate_gap_frames: 12
+  min_crop_height: 100
+  min_crop_width: 40
+
+roi:
+  x1: 513
+  y1: 350
+  x2: 767
+  y2: 714
+  overlap_threshold: 0.60
+  exit_overlap_threshold: 0.30
+  return_overlap_threshold: 0.10
+
+temporal:
+  initialization_required_frames: 5
+  wrist_inside_required_frames: 5
+  bag_inside_required_frames: 3  # Faster final placement; still requires fresh stable evidence.
+  bag_outside_required_frames: 4
+  person_missing_required_frames: 12
+  return_required_frames: 3
+  wrist_loss_tolerance_frames: 3
+  backpack_loss_tolerance_frames: 3
+  tracking_loss_tolerance_frames: 4
+
+interaction:
+  wrist_backpack_max_distance_pixels: 55.0
+  bag_movement_threshold_pixels: 2.0
+  wrist_movement_threshold_pixels: 2.0
+  pickup_displacement_pixels: 35.0
+  wrist_pickup_displacement_pixels: 25.0
+  bag_association_max_distance_pixels: 180.0
+  history_size: 20
+  motion_window_frames: 3
+
+contact:
+  enable_contact_detector: true
+  contact_distance_threshold_pixels: 20.0
+  provider: cvpr2020
+  weights_path: weights/faster_rcnn_1_8_132028.pth
+  repository_path: external/hand_object_detector_pytorch
+  device: cpu
+  confidence_threshold: 0.60
+  hand_confidence_threshold: 0.50
+  object_confidence_threshold: 0.40
+  hand_wrist_max_distance_pixels: 60.0
+  min_object_overlap: 0.15
+  max_object_distance_pixels: 25.0
+  supporting_confirmation_reduction_frames: 1
+  custom_factory: ""
+  options: {}
+  # One successful check per actor/hand interaction; retry only uncertain/negative checks.
+  max_attempts_per_interaction: 3
+  retry_interval_frames: 3
+
+visualization:
+  enabled: true
+  live_preview: true
+  show_debug: true
+  show_trajectories: true
+  font_scale: 0.50
+  line_thickness: 2
+
+video:
+  codec: mp4v
+  fallback_fps: 30.0
+
+demo:
+  width: 640
+  height: 480
+  fps: 15.0

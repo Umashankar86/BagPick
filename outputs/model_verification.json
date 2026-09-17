@@ -1,0 +1,44 @@
+{
+  "yolo_model": "yolo11n.pt",
+  "pose_model": "yolo11n-pose.pt",
+  "person_count": 4,
+  "associated_pose_count": 4,
+  "stable_track_ids": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "actual_contact_model_loaded": true,
+  "contact_hand_count": 1,
+  "contact_predictions": [
+    {
+      "hand_region": [
+        184.6343231201172,
+        204.826171875,
+        253.92173767089844,
+        253.4229736328125
+      ],
+      "detected": false,
+      "confidence": 0.2565487027168274,
+      "object_region": null,
+      "contact_state": "none"
+    }
+  ],
+  "contact_reference": "Upstream annotated boardgame example (smoke test only)",
+  "video_smoke_report": {
+    "input_video": "C:\\Users\\Umashankar\\BagPick\\inputs\\model_smoke_input.mp4",
+    "output_video": "C:\\Users\\Umashankar\\BagPick\\outputs\\model_smoke_processed.mp4",
+    "synthetic_demo": false,
+    "perception_only": true,
+    "frames_processed": 12,
+    "initialized": false,
+    "final_state": "PLACED",
+    "contact_status": "disabled",
+    "state_sequence": [
+      "PLACED"
+    ],
+    "transitions": []
+  },
+  "note": "Real model inference verified. Repeated still image is not event-sequence acceptance."
+}

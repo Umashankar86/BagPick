@@ -1,0 +1,7 @@
+# Full project snapshot, including environments, models and video artifacts.
+# Never commit local credentials or private keys.
+.env
+.env.*
+!.env.example
+*.pem
+*.key

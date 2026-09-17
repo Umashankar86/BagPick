@@ -1,0 +1,64 @@
+{
+  "input_video": "C:\\Users\\Umashankar\\BagPick\\inputs\\sample_video.mp4",
+  "output_video": "C:\\Users\\Umashankar\\BagPick\\outputs\\contact_once_enabled.mp4",
+  "synthetic_demo": false,
+  "perception_only": false,
+  "frames_processed": 240,
+  "initialized": true,
+  "final_state": "PERSON_LEAVES",
+  "contact_status": "enabled",
+  "state_sequence": [
+    "PLACED",
+    "PICKING",
+    "PICKED",
+    "PERSON_LEAVES"
+  ],
+  "transitions": [
+    {
+      "frame": 31,
+      "timestamp": 1.25,
+      "previous": "PLACED",
+      "state": "PICKING",
+      "reason": "Wrist persistently inside ROI and near placed backpack; contact confirmed",
+      "actor_id": 1,
+      "contact_confidence": 0.9931883215904236,
+      "contact_detected": false,
+      "contact_confirmed": true,
+      "contact_confirmation_frame": 28,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": true
+    },
+    {
+      "frame": 63,
+      "timestamp": 2.5833333333333335,
+      "previous": "PICKING",
+      "state": "PICKED",
+      "reason": "Observed backpack and interacting wrist moved outside ROI together",
+      "actor_id": 1,
+      "contact_confidence": 0.9931883215904236,
+      "contact_detected": false,
+      "contact_confirmed": true,
+      "contact_confirmation_frame": 28,
+      "bag_inside_roi": false,
+      "wrist_inside_roi": false
+    },
+    {
+      "frame": 117,
+      "timestamp": 4.833333333333333,
+      "previous": "PICKED",
+      "state": "PERSON_LEAVES",
+      "reason": "Interacting person absent for configured consecutive frames",
+      "actor_id": 1,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "contact_confirmed": false,
+      "contact_confirmation_frame": null,
+      "bag_inside_roi": false,
+      "wrist_inside_roi": false
+    }
+  ],
+  "elapsed_seconds": 23.18,
+  "processing_fps": 12.43,
+  "contact_inferences": 1,
+  "stopped_by_user": false
+}

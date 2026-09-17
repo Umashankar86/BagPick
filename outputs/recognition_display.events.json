@@ -1,0 +1,156 @@
+{
+  "input_video": "C:\\Users\\Umashankar\\BagPick\\inputs\\sample_video.mp4",
+  "output_video": "C:\\Users\\Umashankar\\BagPick\\outputs\\recognition_display.mp4",
+  "synthetic_demo": false,
+  "perception_only": false,
+  "frames_processed": 240,
+  "initialized": true,
+  "final_state": "PLACED",
+  "contact_status": "disabled",
+  "actor_id_semantics": "Session-local learned appearance ID, null if unknown; not verified identity. track_id is raw BoT-SORT ID",
+  "recognition_status": "enabled",
+  "actor_trace": [
+    {
+      "actor_id": 1,
+      "track_id": 1,
+      "frame": 6,
+      "timestamp": 0.20833333333333334,
+      "reason": "new_appearance",
+      "similarity": 0.0,
+      "identity_verified": false,
+      "method": "pretrained_body_appearance",
+      "samples": 2
+    },
+    {
+      "actor_id": 1,
+      "track_id": 11,
+      "frame": 160,
+      "timestamp": 6.625,
+      "reason": "appearance_match",
+      "similarity": 0.7593,
+      "identity_verified": false,
+      "method": "pretrained_body_appearance",
+      "samples": 2
+    }
+  ],
+  "state_sequence": [
+    "PLACED",
+    "PICKING",
+    "PICKED",
+    "PERSON_LEAVES",
+    "PLACING",
+    "PLACED"
+  ],
+  "transitions": [
+    {
+      "frame": 29,
+      "timestamp": 1.1666666666666667,
+      "previous": "PLACED",
+      "state": "PICKING",
+      "reason": "Wrist persistently inside ROI and near placed backpack",
+      "actor_id": 1,
+      "track_id": 1,
+      "pickup_person_id": 1,
+      "same_as_pickup_person": true,
+      "identity_evidence": {
+        "status": "continuous_track",
+        "similarity": 0.794
+      },
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "contact_confirmed": false,
+      "contact_confirmation_frame": null,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": true
+    },
+    {
+      "frame": 76,
+      "timestamp": 3.125,
+      "previous": "PICKING",
+      "state": "PICKED",
+      "reason": "Observed backpack and interacting wrist moved outside ROI together",
+      "actor_id": 1,
+      "track_id": 1,
+      "pickup_person_id": 1,
+      "same_as_pickup_person": true,
+      "identity_evidence": {
+        "status": "continuous_track",
+        "similarity": 0.7224
+      },
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "contact_confirmed": false,
+      "contact_confirmation_frame": null,
+      "bag_inside_roi": false,
+      "wrist_inside_roi": false
+    },
+    {
+      "frame": 117,
+      "timestamp": 4.833333333333333,
+      "previous": "PICKED",
+      "state": "PERSON_LEAVES",
+      "reason": "Interacting person absent for configured consecutive frames",
+      "actor_id": 1,
+      "track_id": 1,
+      "pickup_person_id": 1,
+      "same_as_pickup_person": true,
+      "identity_evidence": {
+        "status": "continuous_track",
+        "similarity": 0.7777
+      },
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "contact_confirmed": false,
+      "contact_confirmation_frame": null,
+      "bag_inside_roi": false,
+      "wrist_inside_roi": false
+    },
+    {
+      "frame": 216,
+      "timestamp": 8.958333333333334,
+      "previous": "PERSON_LEAVES",
+      "state": "PLACING",
+      "reason": "Returning person, wrist and backpack interact with ROI",
+      "actor_id": 1,
+      "track_id": 11,
+      "pickup_person_id": 1,
+      "same_as_pickup_person": true,
+      "identity_evidence": {
+        "status": "continuous_track",
+        "similarity": 0.8073
+      },
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "contact_confirmed": false,
+      "contact_confirmation_frame": null,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": true
+    },
+    {
+      "frame": 232,
+      "timestamp": 9.625,
+      "previous": "PLACING",
+      "state": "PLACED",
+      "reason": "Backpack stable inside ROI; observed interacting wrist has left ROI",
+      "actor_id": 1,
+      "track_id": 11,
+      "pickup_person_id": 1,
+      "same_as_pickup_person": true,
+      "identity_evidence": {
+        "status": "continuous_track",
+        "similarity": 0.88
+      },
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "contact_confirmed": false,
+      "contact_confirmation_frame": null,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": false
+    }
+  ],
+  "elapsed_seconds": 62.751,
+  "processing_fps": 3.96,
+  "contact_inferences": 0,
+  "stopped_by_user": false,
+  "reid_inferences": 41
+}

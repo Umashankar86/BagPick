@@ -1,0 +1,4680 @@
+[
+  {
+    "frame": 1,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      1135.85595703125,
+      332.1995544433594
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "initialization": 0
+    }
+  },
+  {
+    "frame": 2,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      1120.1976318359375,
+      324.27484130859375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "initialization": 1
+    }
+  },
+  {
+    "frame": 3,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      1115.9449462890625,
+      331.4983215332031
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "initialization": 2
+    }
+  },
+  {
+    "frame": 4,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      1102.018798828125,
+      335.060546875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "initialization": 3
+    }
+  },
+  {
+    "frame": 5,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      1065.276611328125,
+      324.03399658203125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "initialization": 4
+    }
+  },
+  {
+    "frame": 6,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      1050.3663330078125,
+      324.2490234375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {}
+  },
+  {
+    "frame": 7,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      995.537109375,
+      328.15032958984375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 8,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      977.5339965820312,
+      321.6908264160156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 9,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      948.396484375,
+      317.4944763183594
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 10,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      923.5347900390625,
+      313.1922912597656
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 11,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      899.599853515625,
+      310.5923156738281
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 12,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      875.7332153320312,
+      312.1448974609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 13,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      857.44873046875,
+      317.10986328125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 14,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      838.8193359375,
+      312.7376708984375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 15,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      814.5888061523438,
+      310.0123596191406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 16,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      797.801025390625,
+      323.4296875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 17,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      775.52685546875,
+      331.7786865234375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 18,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "right",
+    "wrist": [
+      761.6670532226562,
+      339.8918151855469
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 19,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      812.3992919921875,
+      390.8319396972656
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 20,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      783.27197265625,
+      398.10540771484375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 21,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      755.9974975585938,
+      392.50140380859375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 22,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      730.1484375,
+      401.06787109375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 23,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      713.9224853515625,
+      406.151611328125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 24,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      701.695556640625,
+      413.5343017578125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 25,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      690.7650756835938,
+      424.3262634277344
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 26,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      683.2054443359375,
+      435.6597595214844
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 27,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      677.3219604492188,
+      436.53790283203125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picking": 0
+    }
+  },
+  {
+    "frame": 28,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      676.7098388671875,
+      442.1395263671875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picking": 1
+    }
+  },
+  {
+    "frame": 29,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      675.6515502929688,
+      447.2229309082031
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picking": 2
+    }
+  },
+  {
+    "frame": 30,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      682.97119140625,
+      449.0418701171875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picking": 3
+    }
+  },
+  {
+    "frame": 31,
+    "state": "PLACED",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      682.3341674804688,
+      454.3856506347656
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": true,
+    "counters": {
+      "picking": 4
+    }
+  },
+  {
+    "frame": 32,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      683.8284912109375,
+      451.1527404785156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {}
+  },
+  {
+    "frame": 33,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      682.9832153320312,
+      455.4528503417969
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 34,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      681.6874389648438,
+      454.3529968261719
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 35,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      681.8316650390625,
+      459.0318908691406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 36,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      674.2686157226562,
+      451.25762939453125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 37,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      681.6052856445312,
+      451.19775390625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 38,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      681.3822021484375,
+      450.63079833984375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 39,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      685.8690795898438,
+      449.3049011230469
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 40,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      688.7178955078125,
+      442.8402404785156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 41,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      686.1354370117188,
+      442.06683349609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 42,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      683.4701538085938,
+      442.4212341308594
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 43,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      680.5885009765625,
+      442.3577880859375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": true,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 44,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      680.0137939453125,
+      436.9601745605469
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 45,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      681.020263671875,
+      437.15484619140625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 46,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      679.3103637695312,
+      431.0687561035156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 47,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      677.7646484375,
+      428.26434326171875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 48,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 1.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      676.8003540039062,
+      417.55902099609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 49,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.98,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      685.6372680664062,
+      406.32684326171875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 50,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.93,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      691.2530517578125,
+      400.1676025390625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 51,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.89,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      695.1571655273438,
+      400.34686279296875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 52,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.85,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      702.339599609375,
+      392.8775634765625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 53,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.77,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      704.550048828125,
+      388.07275390625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 54,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.71,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      710.5723876953125,
+      382.9595947265625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 55,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.64,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      718.16943359375,
+      374.0621032714844
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 56,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.58,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      718.0908813476562,
+      366.2868957519531
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 57,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.52,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      723.6326904296875,
+      340.42138671875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 58,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.45,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      722.1275024414062,
+      320.9825744628906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 59,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.36,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      726.556884765625,
+      292.3760986328125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 0
+    }
+  },
+  {
+    "frame": 60,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.29,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      731.46337890625,
+      267.927734375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 1
+    }
+  },
+  {
+    "frame": 61,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.21,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      720.7300415039062,
+      256.7370300292969
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 2
+    }
+  },
+  {
+    "frame": 62,
+    "state": "PICKING",
+    "bag_visible": true,
+    "overlap": 0.13,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      721.8672485351562,
+      242.23660278320312
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "picked": 3
+    }
+  },
+  {
+    "frame": 63,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.05,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      717.0875244140625,
+      233.839111328125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {}
+  },
+  {
+    "frame": 64,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      707.3096923828125,
+      219.18368530273438
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 65,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      691.4678955078125,
+      201.3592987060547
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 66,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      681.2865600585938,
+      201.6959686279297
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 67,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      677.2469482421875,
+      192.4118194580078
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 68,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      682.5903930664062,
+      168.7295379638672
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 69,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      649.5323486328125,
+      165.21163940429688
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 70,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      633.0548095703125,
+      170.8688201904297
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 71,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      636.6254272460938,
+      158.10133361816406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 72,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      648.9666137695312,
+      168.4009552001953
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 73,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      596.5302734375,
+      133.42202758789062
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 74,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      611.2128295898438,
+      149.94784545898438
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 75,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      649.9595336914062,
+      172.32179260253906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 76,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      611.171142578125,
+      119.91708374023438
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 77,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      554.57373046875,
+      120.2152099609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 78,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      514.8135375976562,
+      147.22433471679688
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 79,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      556.4031372070312,
+      117.10223388671875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 80,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      484.7293395996094,
+      157.48043823242188
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 81,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      491.7135009765625,
+      115.50302124023438
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 82,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      485.75799560546875,
+      119.78955078125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 83,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      469.6102600097656,
+      144.05593872070312
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 84,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      460.20111083984375,
+      135.2652130126953
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 85,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      449.2788391113281,
+      104.71527099609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 86,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      429.7896423339844,
+      152.29165649414062
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 87,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      414.637939453125,
+      178.5997314453125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 88,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      397.2762756347656,
+      193.25856018066406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 89,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      362.5003967285156,
+      228.28887939453125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 90,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      355.7990417480469,
+      271.4371337890625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 91,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      337.51373291015625,
+      287.90673828125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 92,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      324.4151611328125,
+      318.5992736816406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 93,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      298.7084655761719,
+      336.31292724609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 94,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      269.3340759277344,
+      332.70172119140625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 95,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      247.78817749023438,
+      347.37396240234375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 96,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      196.60366821289062,
+      340.4277038574219
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 97,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      167.32533264160156,
+      337.66229248046875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 98,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      123.9166259765625,
+      329.32806396484375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 99,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      89.64067077636719,
+      334.3470458984375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 100,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      32.613739013671875,
+      343.4172058105469
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 101,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      14.665748596191406,
+      330.65594482421875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 102,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      1.0213241577148438,
+      313.7113342285156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 103,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      8.584182739257812,
+      318.168701171875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 104,
+    "state": "PICKED",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      8.584182739257812,
+      318.168701171875
+    ],
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 105,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      8.584182739257812,
+      318.168701171875
+    ],
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 0
+    }
+  },
+  {
+    "frame": 106,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": [
+      8.584182739257812,
+      318.168701171875
+    ],
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 1
+    }
+  },
+  {
+    "frame": 107,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 2
+    }
+  },
+  {
+    "frame": 108,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 3
+    }
+  },
+  {
+    "frame": 109,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 4
+    }
+  },
+  {
+    "frame": 110,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 5
+    }
+  },
+  {
+    "frame": 111,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 6
+    }
+  },
+  {
+    "frame": 112,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 7
+    }
+  },
+  {
+    "frame": 113,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 8
+    }
+  },
+  {
+    "frame": 114,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 9
+    }
+  },
+  {
+    "frame": 115,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 10
+    }
+  },
+  {
+    "frame": 116,
+    "state": "PICKED",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "person_missing": 11
+    }
+  },
+  {
+    "frame": 117,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 1,
+    "hand": "left",
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {}
+  },
+  {
+    "frame": 118,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 119,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 120,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 121,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 122,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 123,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 124,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 125,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 126,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 127,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 128,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 129,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 130,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 131,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 132,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 133,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 134,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 135,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 136,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 137,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 138,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 139,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 140,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 141,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 142,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 143,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 144,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": null,
+    "hand": null,
+    "wrist": null,
+    "wrist_fresh": false,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 145,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      47.556671142578125,
+      334.6763000488281
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 146,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      52.551246643066406,
+      227.7913055419922
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 147,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      80.97827911376953,
+      321.39117431640625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 148,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      99.83612060546875,
+      325.68719482421875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 149,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      117.12576293945312,
+      332.18414306640625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 150,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      123.51060485839844,
+      329.43621826171875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 151,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      135.841796875,
+      340.00640869140625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 152,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      143.18472290039062,
+      333.5130310058594
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 153,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      153.62747192382812,
+      219.039794921875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 154,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      173.0968017578125,
+      219.0334930419922
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 155,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "left",
+    "wrist": [
+      187.18565368652344,
+      211.07241821289062
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 156,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      196.92782592773438,
+      198.29360961914062
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 157,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      224.37844848632812,
+      191.26258850097656
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 158,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      247.90309143066406,
+      200.664306640625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 159,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      259.55780029296875,
+      206.41275024414062
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 160,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      274.3542175292969,
+      199.11524963378906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 161,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      297.4428405761719,
+      209.67910766601562
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 162,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      320.330078125,
+      202.6888885498047
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 163,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      335.3736877441406,
+      197.93455505371094
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 164,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      353.3358459472656,
+      201.75445556640625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 165,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      376.9090270996094,
+      197.39608764648438
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 166,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      391.48040771484375,
+      193.11964416503906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 167,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      395.4271545410156,
+      189.58151245117188
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 168,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      392.9895935058594,
+      184.69976806640625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 169,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      420.56463623046875,
+      189.31710815429688
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 170,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      420.4916076660156,
+      203.23129272460938
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 171,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      441.3706359863281,
+      189.72975158691406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 172,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      447.58111572265625,
+      202.29754638671875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 173,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      468.7943420410156,
+      202.82749938964844
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 174,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      471.3673095703125,
+      208.97366333007812
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 175,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      493.02166748046875,
+      219.16148376464844
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 176,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      508.8672790527344,
+      213.72021484375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 177,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      510.4940490722656,
+      208.8397674560547
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 178,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      533.7816162109375,
+      195.84339904785156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 179,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      545.8528442382812,
+      207.9593505859375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 180,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      555.0532836914062,
+      210.086669921875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 181,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      574.3980712890625,
+      199.74205017089844
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 182,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      580.3896484375,
+      198.088623046875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 183,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      582.0352783203125,
+      208.5372314453125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 184,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      592.0928955078125,
+      202.0545654296875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 185,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      593.1845703125,
+      198.85887145996094
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 186,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      601.593994140625,
+      203.82130432128906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 187,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      605.839111328125,
+      202.66290283203125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 188,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      602.7177124023438,
+      196.8644561767578
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 189,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      604.375,
+      187.6634979248047
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 190,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      605.2531127929688,
+      190.3534393310547
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 191,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      620.2256469726562,
+      185.30194091796875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 192,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      624.33349609375,
+      180.19508361816406
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 193,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      625.0986328125,
+      168.46121215820312
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 194,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      617.4959716796875,
+      164.79461669921875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 195,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      620.761474609375,
+      156.70399475097656
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 196,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      619.2421875,
+      158.16476440429688
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 197,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      613.637451171875,
+      160.8722381591797
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 198,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      623.7337646484375,
+      153.1890869140625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 199,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      620.17724609375,
+      169.1511993408203
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 200,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      623.9488525390625,
+      175.04327392578125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 201,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      625.1647338867188,
+      182.35629272460938
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 202,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.0,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      625.6604614257812,
+      184.663818359375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 203,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      629.96337890625,
+      197.30435180664062
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 204,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      635.5280151367188,
+      207.53048706054688
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 205,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      635.8690185546875,
+      224.2437744140625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 206,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      631.0502319335938,
+      234.58340454101562
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 207,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      624.0831909179688,
+      250.35687255859375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 208,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      615.4935913085938,
+      262.479248046875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 209,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      607.9631958007812,
+      277.4837951660156
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 210,
+    "state": "PERSON_LEAVES",
+    "bag_visible": false,
+    "overlap": 0.0,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      603.6803588867188,
+      293.2868957519531
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 211,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.55,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      594.8163452148438,
+      311.86431884765625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 212,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.59,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      589.0943603515625,
+      330.3935852050781
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 213,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.63,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      586.5718994140625,
+      347.7032775878906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 214,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.66,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      583.9287109375,
+      361.3398132324219
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 215,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.7,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      588.1052856445312,
+      367.5894775390625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 216,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.73,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      592.0821533203125,
+      377.35675048828125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": true,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 217,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.78,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      596.993896484375,
+      381.1993713378906
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 218,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.79,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      598.380126953125,
+      384.6354675292969
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 219,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.81,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      599.9598388671875,
+      383.852783203125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 220,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.84,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      600.8662719726562,
+      383.2730712890625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 221,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.87,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      599.8792724609375,
+      381.00439453125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 222,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.9,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      597.72705078125,
+      377.94024658203125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 223,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      596.29931640625,
+      373.777099609375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 224,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.93,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      594.1484375,
+      368.2515563964844
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 225,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.93,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      594.0196533203125,
+      361.96966552734375
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 226,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.93,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      600.6112060546875,
+      356.031982421875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 227,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      600.7155151367188,
+      352.8912353515625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 228,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      601.5354614257812,
+      349.6940612792969
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 229,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": true,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      605.208251953125,
+      343.4648132324219
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 230,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      608.4218139648438,
+      341.68927001953125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 231,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      614.748291015625,
+      341.5270690917969
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 232,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      621.0955200195312,
+      340.16961669921875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 233,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      624.7877197265625,
+      338.5267028808594
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 234,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      628.8687133789062,
+      337.7011413574219
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 235,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      635.7352905273438,
+      333.7037353515625
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 236,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      639.88720703125,
+      329.000732421875
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 237,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      647.1021728515625,
+      325.163330078125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 238,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.91,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      655.4453735351562,
+      320.8179016113281
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 239,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      662.2655029296875,
+      317.1327819824219
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  },
+  {
+    "frame": 240,
+    "state": "PERSON_LEAVES",
+    "bag_visible": true,
+    "overlap": 0.92,
+    "moving": false,
+    "actor": 11,
+    "hand": "right",
+    "wrist": [
+      672.1423950195312,
+      314.80987548828125
+    ],
+    "wrist_fresh": true,
+    "wrist_roi": false,
+    "near": false,
+    "other": false,
+    "counters": {
+      "returning": 0
+    }
+  }
+]

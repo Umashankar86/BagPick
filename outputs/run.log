@@ -1,0 +1,17 @@
+2026-09-18 01:54:55,596 INFO models.contact: Pretrained contact detector loaded: cvpr2020
+2026-09-18 01:54:57,022 INFO tracking.recognition: Person 1 <- track 1: new_appearance, cosine=0.000, samples=2
+2026-09-18 01:54:57,022 INFO core.state_machine: frame=6 Initialized: backpack stable inside configured ROI
+2026-09-18 01:55:01,279 INFO pipeline: Progress 27/240 frames | 5.4 FPS | contact inferences 1
+2026-09-18 01:55:03,650 INFO core.state_machine: frame=28 PLACED -> PICKING | Wrist persistently inside ROI and near placed backpack; contact confirmed | actor=1 track=1 contact=0.993 bag_roi=True wrist_roi=True
+2026-09-18 01:55:06,281 INFO pipeline: Progress 61/240 frames | 6.1 FPS | contact inferences 2
+2026-09-18 01:55:07,467 INFO core.state_machine: frame=76 PICKING -> PICKED | Observed backpack and interacting wrist moved outside ROI together | actor=1 track=1 contact=0.993 bag_roi=False wrist_roi=False
+2026-09-18 01:55:10,338 INFO core.state_machine: frame=117 PICKED -> PERSON_LEAVES | Interacting person absent for configured consecutive frames | actor=1 track=1 contact=0.000 bag_roi=False wrist_roi=False
+2026-09-18 01:55:11,290 INFO pipeline: Progress 137/240 frames | 9.1 FPS | contact inferences 2
+2026-09-18 01:55:12,900 INFO tracking.recognition: Person 1 <- track 11: appearance_match, cosine=0.759, samples=2
+2026-09-18 01:55:16,360 INFO pipeline: Progress 204/240 frames | 10.1 FPS | contact inferences 2
+2026-09-18 01:55:19,550 INFO core.state_machine: frame=215 PERSON_LEAVES -> PLACING | Returning person, wrist and backpack interact with ROI; contact confirmed | actor=1 track=11 contact=0.979 bag_roi=True wrist_roi=True
+2026-09-18 01:55:20,904 INFO core.state_machine: frame=232 PLACING -> PLACED | Backpack stable inside ROI; observed interacting wrist has left ROI | actor=1 track=11 contact=0.979 bag_roi=True wrist_roi=False
+2026-09-18 01:55:21,392 INFO pipeline: Progress 238/240 frames | 9.5 FPS | contact inferences 3
+2026-09-18 01:55:21,566 INFO pipeline: Completed in 29.4s (processing 9.5 FPS; 3 contact inferences)
+2026-09-18 01:55:21,566 INFO pipeline: Wrote 240 frames: C:\Users\Umashankar\BagPick\outputs\processed_video.mp4
+2026-09-18 01:55:21,566 INFO pipeline: Observed sequence: PLACED -> PICKING -> PICKED -> PERSON_LEAVES -> PLACING -> PLACED

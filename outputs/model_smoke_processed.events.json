@@ -1,0 +1,14 @@
+{
+  "input_video": "C:\\Users\\Umashankar\\BagPick\\inputs\\model_smoke_input.mp4",
+  "output_video": "C:\\Users\\Umashankar\\BagPick\\outputs\\model_smoke_processed.mp4",
+  "synthetic_demo": false,
+  "perception_only": true,
+  "frames_processed": 12,
+  "initialized": false,
+  "final_state": "PLACED",
+  "contact_status": "disabled",
+  "state_sequence": [
+    "PLACED"
+  ],
+  "transitions": []
+}

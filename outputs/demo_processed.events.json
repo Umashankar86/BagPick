@@ -1,0 +1,80 @@
+{
+  "input_video": "C:\\Users\\Umashankar\\BagPick\\inputs\\demo_input.mp4",
+  "output_video": "C:\\Users\\Umashankar\\BagPick\\outputs\\demo_processed.mp4",
+  "synthetic_demo": true,
+  "perception_only": false,
+  "frames_processed": 240,
+  "initialized": true,
+  "final_state": "PLACED",
+  "contact_status": "disabled",
+  "state_sequence": [
+    "PLACED",
+    "PICKING",
+    "PICKED",
+    "PERSON_LEAVES",
+    "PLACING",
+    "PLACED"
+  ],
+  "transitions": [
+    {
+      "frame": 55,
+      "timestamp": 3.6,
+      "previous": "PLACED",
+      "state": "PICKING",
+      "reason": "Wrist persistently inside ROI and near placed backpack",
+      "actor_id": 1,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": true
+    },
+    {
+      "frame": 94,
+      "timestamp": 6.2,
+      "previous": "PICKING",
+      "state": "PICKED",
+      "reason": "Observed backpack and interacting wrist moved outside ROI together",
+      "actor_id": 1,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "bag_inside_roi": false,
+      "wrist_inside_roi": false
+    },
+    {
+      "frame": 137,
+      "timestamp": 9.066666666666666,
+      "previous": "PICKED",
+      "state": "PERSON_LEAVES",
+      "reason": "Interacting person absent for configured consecutive frames",
+      "actor_id": 1,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "bag_inside_roi": false,
+      "wrist_inside_roi": false
+    },
+    {
+      "frame": 168,
+      "timestamp": 11.133333333333333,
+      "previous": "PERSON_LEAVES",
+      "state": "PLACING",
+      "reason": "Returning person, wrist and backpack interact with ROI",
+      "actor_id": 8,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": true
+    },
+    {
+      "frame": 211,
+      "timestamp": 14.0,
+      "previous": "PLACING",
+      "state": "PLACED",
+      "reason": "Backpack stable inside ROI; observed interacting wrist has left ROI",
+      "actor_id": 8,
+      "contact_confidence": 0.0,
+      "contact_detected": false,
+      "bag_inside_roi": true,
+      "wrist_inside_roi": false
+    }
+  ]
+}
